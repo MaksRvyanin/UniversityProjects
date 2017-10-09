@@ -1,0 +1,48 @@
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+d:\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form_Calc.resources
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\obj\Debug\Calculator.Form_Calc.resources
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\OOP\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.exe
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.pdb
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\bin\Debug\Calculator.exe
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\bin\Debug\Calculator.pdb
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.Form_Calc.resources
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\qwerty\Desktop\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\bin\Debug\Calculator.exe.config
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.exe
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.pdb
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\bin\Debug\Calculator.exe
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\bin\Debug\Calculator.pdb
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.Form_Calc.resources
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\максим\OOP для сдачи\WindowsCalc\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\obj\Debug\Calculator.exe
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\bin\Debug\Calculator.exe
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\obj\Debug\Calculator.Form_Calc.resources
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Maksim\Desktop\2 курс\Отчеты\WindowsCalc\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\WindowsCalc\Calculator\bin\Debug\Calculator.exe.config
+E:\WindowsCalc\Calculator\obj\Debug\Calculator.exe
+E:\WindowsCalc\Calculator\obj\Debug\Calculator.pdb

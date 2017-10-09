@@ -1,0 +1,53 @@
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\vector.exe.config
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\vector.exe
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\vector.pdb
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\ModernWPF.dll
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\CommonWin32.dll
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\ModernWPF.pdb
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\ModernWPF.xml
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\CommonWin32.pdb
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\CommonWin32.xml
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\ja\ModernWPF.resources.dll
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\zh-Hans\ModernWPF.resources.dll
+d:\Documents\Visual Studio 2015\Projects\vector\vector\bin\Release\zh-Hant\ModernWPF.resources.dll
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\MainWindow.g.cs
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\App.g.cs
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\vector_MarkupCompile.cache
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\vector_MarkupCompile.lref
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\App.baml
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\MainWindow.baml
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\vector.g.resources
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\vector.Properties.Resources.resources
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\vector.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\vector.exe
+d:\Documents\Visual Studio 2015\Projects\vector\vector\obj\Release\vector.pdb
+D:\Documents\vector\vector\bin\Release\vector.exe.config
+D:\Documents\vector\vector\obj\Release\vector.exe
+D:\Documents\vector\vector\obj\Release\vector.pdb
+D:\Documents\vector\vector\bin\Release\vector.exe
+D:\Documents\vector\vector\bin\Release\vector.pdb
+D:\Documents\vector\vector\bin\Release\CommonWin32.dll
+D:\Documents\vector\vector\bin\Release\ModernWPF.pdb
+D:\Documents\vector\vector\bin\Release\ModernWPF.xml
+D:\Documents\vector\vector\bin\Release\CommonWin32.pdb
+D:\Documents\vector\vector\bin\Release\CommonWin32.xml
+D:\Documents\vector\vector\bin\Release\ja\ModernWPF.resources.dll
+D:\Documents\vector\vector\bin\Release\zh-Hans\ModernWPF.resources.dll
+D:\Documents\vector\vector\bin\Release\zh-Hant\ModernWPF.resources.dll
+D:\Documents\vector\vector\obj\Release\vector.csprojResolveAssemblyReference.cache
+D:\Documents\vector\vector\obj\Release\MainWindow.baml
+D:\Documents\vector\vector\obj\Release\CloseDialog.g.cs
+D:\Documents\vector\vector\obj\Release\LoginWindow.g.cs
+D:\Documents\vector\vector\obj\Release\MainWindow.g.cs
+D:\Documents\vector\vector\obj\Release\WindowAbout.g.cs
+D:\Documents\vector\vector\obj\Release\App.g.cs
+D:\Documents\vector\vector\obj\Release\vector_MarkupCompile.cache
+D:\Documents\vector\vector\obj\Release\vector_MarkupCompile.lref
+D:\Documents\vector\vector\obj\Release\App.baml
+D:\Documents\vector\vector\obj\Release\CloseDialog.baml
+D:\Documents\vector\vector\obj\Release\DictionaryContainingScrollbarStyle.baml
+D:\Documents\vector\vector\obj\Release\LoginWindow.baml
+D:\Documents\vector\vector\obj\Release\WindowAbout.baml
+D:\Documents\vector\vector\obj\Release\vector.g.resources
+D:\Documents\vector\vector\obj\Release\vector.Properties.Resources.resources
+D:\Documents\vector\vector\obj\Release\vector.csproj.GenerateResource.Cache

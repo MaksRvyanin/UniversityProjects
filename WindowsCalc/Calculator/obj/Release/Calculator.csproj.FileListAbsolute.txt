@@ -1,0 +1,36 @@
+E:\WindowsCalc\Calculator\bin\Release\Calculator.exe.config
+E:\WindowsCalc\Calculator\bin\Release\Calculator.exe
+E:\WindowsCalc\Calculator\bin\Release\Calculator.pdb
+E:\WindowsCalc\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+E:\WindowsCalc\Calculator\obj\Release\Calculator.Form_Calc.resources
+E:\WindowsCalc\Calculator\obj\Release\Calculator.Properties.Resources.resources
+E:\WindowsCalc\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+E:\WindowsCalc\Calculator\obj\Release\Calculator.exe
+E:\WindowsCalc\Calculator\obj\Release\Calculator.pdb
+F:\WindowsCalc\Calculator\bin\Release\Calculator.exe.config
+F:\WindowsCalc\Calculator\obj\Release\Calculator.exe
+F:\WindowsCalc\Calculator\obj\Release\Calculator.pdb
+F:\WindowsCalc\Calculator\bin\Release\Calculator.exe
+F:\WindowsCalc\Calculator\bin\Release\Calculator.pdb
+F:\WindowsCalc\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+F:\WindowsCalc\Calculator\obj\Release\Calculator.Form_Calc.resources
+F:\WindowsCalc\Calculator\obj\Release\Calculator.Properties.Resources.resources
+F:\WindowsCalc\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+F:\REady3OOP\WindowsCalc\Calculator\bin\Release\Calculator.exe.config
+F:\REady3OOP\WindowsCalc\Calculator\obj\Release\Calculator.exe
+F:\REady3OOP\WindowsCalc\Calculator\obj\Release\Calculator.pdb
+F:\REady3OOP\WindowsCalc\Calculator\bin\Release\Calculator.exe
+F:\REady3OOP\WindowsCalc\Calculator\bin\Release\Calculator.pdb
+F:\REady3OOP\WindowsCalc\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+F:\REady3OOP\WindowsCalc\Calculator\obj\Release\Calculator.Form_Calc.resources
+F:\REady3OOP\WindowsCalc\Calculator\obj\Release\Calculator.Properties.Resources.resources
+F:\REady3OOP\WindowsCalc\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\bin\Release\Calculator.exe.config
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\obj\Release\Calculator.exe
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\obj\Release\Calculator.pdb
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\bin\Release\Calculator.exe
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\bin\Release\Calculator.pdb
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\obj\Release\Calculator.Form_Calc.resources
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\obj\Release\Calculator.Properties.Resources.resources
+E:\Рвянин ДКО-141б ООП отчеты\WindowsCalc\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache

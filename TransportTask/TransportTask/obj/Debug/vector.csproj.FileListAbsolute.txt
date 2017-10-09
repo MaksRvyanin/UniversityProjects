@@ -1,0 +1,173 @@
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\vector.exe.config
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\vector.exe
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\vector.pdb
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\vector.csprojResolveAssemblyReference.cache
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\MainWindow.g.cs
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\App.g.cs
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\vector_MarkupCompile.cache
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\vector_MarkupCompile.lref
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\MainWindow.baml
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\vector.g.resources
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\vector.Properties.Resources.resources
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\vector.csproj.GenerateResource.Cache
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\vector.exe
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\vector.pdb
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\ModernWPF.dll
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\CommonWin32.dll
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\ModernWPF.pdb
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\ModernWPF.xml
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\CommonWin32.pdb
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\CommonWin32.xml
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\ja\ModernWPF.resources.dll
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\zh-Hans\ModernWPF.resources.dll
+d:\documents\Visual Studio 2015\Projects\vector\vector\bin\Debug\zh-Hant\ModernWPF.resources.dll
+d:\documents\Visual Studio 2015\Projects\vector\vector\obj\Debug\App.baml
+D:\Desktop\vector\vector\bin\Debug\vector.exe.config
+D:\Desktop\vector\vector\obj\Debug\vector.exe
+D:\Desktop\vector\vector\obj\Debug\vector.pdb
+D:\Desktop\vector\vector\bin\Debug\vector.exe
+D:\Desktop\vector\vector\bin\Debug\vector.pdb
+D:\Desktop\vector\vector\bin\Debug\CommonWin32.dll
+D:\Desktop\vector\vector\bin\Debug\ModernWPF.pdb
+D:\Desktop\vector\vector\bin\Debug\ModernWPF.xml
+D:\Desktop\vector\vector\bin\Debug\CommonWin32.pdb
+D:\Desktop\vector\vector\bin\Debug\CommonWin32.xml
+D:\Desktop\vector\vector\bin\Debug\ja\ModernWPF.resources.dll
+D:\Desktop\vector\vector\bin\Debug\zh-Hans\ModernWPF.resources.dll
+D:\Desktop\vector\vector\bin\Debug\zh-Hant\ModernWPF.resources.dll
+D:\Desktop\vector\vector\obj\Debug\vector.csprojResolveAssemblyReference.cache
+D:\Desktop\vector\vector\obj\Debug\MainWindow.g.cs
+D:\Desktop\vector\vector\obj\Debug\App.g.cs
+D:\Desktop\vector\vector\obj\Debug\vector_MarkupCompile.cache
+D:\Desktop\vector\vector\obj\Debug\vector_MarkupCompile.lref
+D:\Desktop\vector\vector\obj\Debug\App.baml
+D:\Desktop\vector\vector\obj\Debug\MainWindow.baml
+D:\Desktop\vector\vector\obj\Debug\vector.g.resources
+D:\Desktop\vector\vector\obj\Debug\vector.Properties.Resources.resources
+D:\Desktop\vector\vector\obj\Debug\vector.csproj.GenerateResource.Cache
+D:\Desktop\vector\vector\obj\Debug\WindowAbout.g.cs
+D:\Desktop\vector\vector\obj\Debug\WindowAbout.baml
+D:\Desktop\vector\vector\obj\Debug\CloseDialog.g.cs
+D:\Desktop\vector\vector\obj\Debug\LoginWindow.g.cs
+D:\Desktop\vector\vector\obj\Debug\CloseDialog.baml
+D:\Desktop\vector\vector\obj\Debug\LoginWindow.baml
+D:\Desktop\vector - Copy\vector\bin\Debug\vector.exe.config
+D:\Desktop\vector - Copy\vector\obj\Debug\vector.exe
+D:\Desktop\vector - Copy\vector\obj\Debug\vector.pdb
+D:\Desktop\vector - Copy\vector\bin\Debug\vector.exe
+D:\Desktop\vector - Copy\vector\bin\Debug\vector.pdb
+D:\Desktop\vector - Copy\vector\bin\Debug\CommonWin32.dll
+D:\Desktop\vector - Copy\vector\bin\Debug\ModernWPF.pdb
+D:\Desktop\vector - Copy\vector\bin\Debug\ModernWPF.xml
+D:\Desktop\vector - Copy\vector\bin\Debug\CommonWin32.pdb
+D:\Desktop\vector - Copy\vector\bin\Debug\CommonWin32.xml
+D:\Desktop\vector - Copy\vector\bin\Debug\ja\ModernWPF.resources.dll
+D:\Desktop\vector - Copy\vector\bin\Debug\zh-Hans\ModernWPF.resources.dll
+D:\Desktop\vector - Copy\vector\bin\Debug\zh-Hant\ModernWPF.resources.dll
+D:\Desktop\vector - Copy\vector\obj\Debug\vector.csprojResolveAssemblyReference.cache
+D:\Desktop\vector - Copy\vector\obj\Debug\MainWindow.baml
+D:\Desktop\vector - Copy\vector\obj\Debug\CloseDialog.g.cs
+D:\Desktop\vector - Copy\vector\obj\Debug\LoginWindow.g.cs
+D:\Desktop\vector - Copy\vector\obj\Debug\MainWindow.g.cs
+D:\Desktop\vector - Copy\vector\obj\Debug\WindowAbout.g.cs
+D:\Desktop\vector - Copy\vector\obj\Debug\App.g.cs
+D:\Desktop\vector - Copy\vector\obj\Debug\vector_MarkupCompile.cache
+D:\Desktop\vector - Copy\vector\obj\Debug\vector_MarkupCompile.lref
+D:\Desktop\vector - Copy\vector\obj\Debug\App.baml
+D:\Desktop\vector - Copy\vector\obj\Debug\CloseDialog.baml
+D:\Desktop\vector - Copy\vector\obj\Debug\DictionaryContainingScrollbarStyle.baml
+D:\Desktop\vector - Copy\vector\obj\Debug\LoginWindow.baml
+D:\Desktop\vector - Copy\vector\obj\Debug\WindowAbout.baml
+D:\Desktop\vector - Copy\vector\obj\Debug\vector.g.resources
+D:\Desktop\vector - Copy\vector\obj\Debug\vector.Properties.Resources.resources
+D:\Desktop\vector - Copy\vector\obj\Debug\vector.csproj.GenerateResource.Cache
+D:\Downloads\vector (1)\vector\vector\bin\Debug\vector.exe.config
+D:\Downloads\vector (1)\vector\vector\obj\Debug\vector.exe
+D:\Downloads\vector (1)\vector\vector\obj\Debug\vector.pdb
+D:\Downloads\vector (1)\vector\vector\bin\Debug\vector.exe
+D:\Downloads\vector (1)\vector\vector\bin\Debug\vector.pdb
+D:\Downloads\vector (1)\vector\vector\bin\Debug\CommonWin32.dll
+D:\Downloads\vector (1)\vector\vector\bin\Debug\ModernWPF.pdb
+D:\Downloads\vector (1)\vector\vector\bin\Debug\ModernWPF.xml
+D:\Downloads\vector (1)\vector\vector\bin\Debug\CommonWin32.pdb
+D:\Downloads\vector (1)\vector\vector\bin\Debug\CommonWin32.xml
+D:\Downloads\vector (1)\vector\vector\bin\Debug\ja\ModernWPF.resources.dll
+D:\Downloads\vector (1)\vector\vector\bin\Debug\zh-Hans\ModernWPF.resources.dll
+D:\Downloads\vector (1)\vector\vector\bin\Debug\zh-Hant\ModernWPF.resources.dll
+D:\Downloads\vector (1)\vector\vector\obj\Debug\vector.csprojResolveAssemblyReference.cache
+D:\Downloads\vector (1)\vector\vector\obj\Debug\MainWindow.baml
+D:\Downloads\vector (1)\vector\vector\obj\Debug\CloseDialog.g.cs
+D:\Downloads\vector (1)\vector\vector\obj\Debug\LoginWindow.g.cs
+D:\Downloads\vector (1)\vector\vector\obj\Debug\MainWindow.g.cs
+D:\Downloads\vector (1)\vector\vector\obj\Debug\WindowAbout.g.cs
+D:\Downloads\vector (1)\vector\vector\obj\Debug\App.g.cs
+D:\Downloads\vector (1)\vector\vector\obj\Debug\vector_MarkupCompile.cache
+D:\Downloads\vector (1)\vector\vector\obj\Debug\vector_MarkupCompile.lref
+D:\Downloads\vector (1)\vector\vector\obj\Debug\App.baml
+D:\Downloads\vector (1)\vector\vector\obj\Debug\CloseDialog.baml
+D:\Downloads\vector (1)\vector\vector\obj\Debug\DictionaryContainingScrollbarStyle.baml
+D:\Downloads\vector (1)\vector\vector\obj\Debug\LoginWindow.baml
+D:\Downloads\vector (1)\vector\vector\obj\Debug\WindowAbout.baml
+D:\Downloads\vector (1)\vector\vector\obj\Debug\vector.g.resources
+D:\Downloads\vector (1)\vector\vector\obj\Debug\vector.Properties.Resources.resources
+D:\Downloads\vector (1)\vector\vector\obj\Debug\vector.csproj.GenerateResource.Cache
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\vector.exe.config
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\vector.exe
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\vector.pdb
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\vector.exe
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\vector.pdb
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\CommonWin32.dll
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\ModernWPF.pdb
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\ModernWPF.xml
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\CommonWin32.pdb
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\CommonWin32.xml
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\ja\ModernWPF.resources.dll
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\zh-Hans\ModernWPF.resources.dll
+C:\Users\Momk\Desktop\vector (1)\vector\vector\bin\Debug\zh-Hant\ModernWPF.resources.dll
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\vector.csprojResolveAssemblyReference.cache
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\MainWindow.baml
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\CloseDialog.g.cs
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\LoginWindow.g.cs
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\MainWindow.g.cs
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\WindowAbout.g.cs
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\App.g.cs
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\vector_MarkupCompile.cache
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\vector_MarkupCompile.lref
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\App.baml
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\CloseDialog.baml
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\DictionaryContainingScrollbarStyle.baml
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\LoginWindow.baml
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\WindowAbout.baml
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\vector.g.resources
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\vector.Properties.Resources.resources
+C:\Users\Momk\Desktop\vector (1)\vector\vector\obj\Debug\vector.csproj.GenerateResource.Cache
+D:\Documents\vector\vector\bin\Debug\vector.exe.config
+D:\Documents\vector\vector\obj\Debug\vector.exe
+D:\Documents\vector\vector\obj\Debug\vector.pdb
+D:\Documents\vector\vector\bin\Debug\vector.exe
+D:\Documents\vector\vector\bin\Debug\vector.pdb
+D:\Documents\vector\vector\bin\Debug\CommonWin32.dll
+D:\Documents\vector\vector\bin\Debug\ModernWPF.pdb
+D:\Documents\vector\vector\bin\Debug\ModernWPF.xml
+D:\Documents\vector\vector\bin\Debug\CommonWin32.pdb
+D:\Documents\vector\vector\bin\Debug\CommonWin32.xml
+D:\Documents\vector\vector\bin\Debug\ja\ModernWPF.resources.dll
+D:\Documents\vector\vector\bin\Debug\zh-Hans\ModernWPF.resources.dll
+D:\Documents\vector\vector\bin\Debug\zh-Hant\ModernWPF.resources.dll
+D:\Documents\vector\vector\obj\Debug\vector.csprojResolveAssemblyReference.cache
+D:\Documents\vector\vector\obj\Debug\MainWindow.baml
+D:\Documents\vector\vector\obj\Debug\CloseDialog.g.cs
+D:\Documents\vector\vector\obj\Debug\LoginWindow.g.cs
+D:\Documents\vector\vector\obj\Debug\MainWindow.g.cs
+D:\Documents\vector\vector\obj\Debug\WindowAbout.g.cs
+D:\Documents\vector\vector\obj\Debug\App.g.cs
+D:\Documents\vector\vector\obj\Debug\vector_MarkupCompile.cache
+D:\Documents\vector\vector\obj\Debug\vector_MarkupCompile.lref
+D:\Documents\vector\vector\obj\Debug\App.baml
+D:\Documents\vector\vector\obj\Debug\CloseDialog.baml
+D:\Documents\vector\vector\obj\Debug\DictionaryContainingScrollbarStyle.baml
+D:\Documents\vector\vector\obj\Debug\LoginWindow.baml
+D:\Documents\vector\vector\obj\Debug\WindowAbout.baml
+D:\Documents\vector\vector\obj\Debug\vector.g.resources
+D:\Documents\vector\vector\obj\Debug\vector.Properties.Resources.resources
+D:\Documents\vector\vector\obj\Debug\vector.csproj.GenerateResource.Cache

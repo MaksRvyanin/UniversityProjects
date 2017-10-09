@@ -1,0 +1,93 @@
+D:\Documents\vector\vector\bin\Release\TransportTask.exe.config
+D:\Documents\vector\vector\obj\Release\App.g.cs
+D:\Documents\vector\vector\obj\Release\TransportTask_MarkupCompile.cache
+D:\Documents\vector\vector\obj\Release\TransportTask_MarkupCompile.lref
+D:\Documents\vector\vector\bin\Release\TransportTask.exe
+D:\Documents\vector\vector\bin\Release\TransportTask.pdb
+D:\Documents\vector\vector\bin\Release\ModernWPF.dll
+D:\Documents\vector\vector\bin\Release\CommonWin32.dll
+D:\Documents\vector\vector\bin\Release\ModernWPF.pdb
+D:\Documents\vector\vector\bin\Release\ModernWPF.xml
+D:\Documents\vector\vector\bin\Release\CommonWin32.pdb
+D:\Documents\vector\vector\bin\Release\CommonWin32.xml
+D:\Documents\vector\vector\bin\Release\ja\ModernWPF.resources.dll
+D:\Documents\vector\vector\bin\Release\zh-Hans\ModernWPF.resources.dll
+D:\Documents\vector\vector\bin\Release\zh-Hant\ModernWPF.resources.dll
+D:\Documents\vector\vector\obj\Release\MainWindow.baml
+D:\Documents\vector\vector\obj\Release\CloseDialog.g.cs
+D:\Documents\vector\vector\obj\Release\LoginWindow.g.cs
+D:\Documents\vector\vector\obj\Release\MainWindow.g.cs
+D:\Documents\vector\vector\obj\Release\WindowAbout.g.cs
+D:\Documents\vector\vector\obj\Release\App.baml
+D:\Documents\vector\vector\obj\Release\CloseDialog.baml
+D:\Documents\vector\vector\obj\Release\DictionaryContainingScrollbarStyle.baml
+D:\Documents\vector\vector\obj\Release\LoginWindow.baml
+D:\Documents\vector\vector\obj\Release\WindowAbout.baml
+D:\Documents\vector\vector\obj\Release\TransportTask.g.resources
+D:\Documents\vector\vector\obj\Release\TransportTask.Properties.Resources.resources
+D:\Documents\vector\vector\obj\Release\TransportTask.csproj.GenerateResource.Cache
+D:\Documents\vector\vector\obj\Release\TransportTask.exe
+D:\Documents\vector\vector\obj\Release\TransportTask.pdb
+D:\Documents\TransportTask\vector\bin\Release\TransportTask.exe.config
+D:\Documents\TransportTask\vector\obj\Release\TransportTask.exe
+D:\Documents\TransportTask\vector\obj\Release\TransportTask.pdb
+D:\Documents\TransportTask\vector\bin\Release\TransportTask.exe
+D:\Documents\TransportTask\vector\bin\Release\TransportTask.pdb
+D:\Documents\TransportTask\vector\bin\Release\CommonWin32.dll
+D:\Documents\TransportTask\vector\bin\Release\ModernWPF.pdb
+D:\Documents\TransportTask\vector\bin\Release\ModernWPF.xml
+D:\Documents\TransportTask\vector\bin\Release\CommonWin32.pdb
+D:\Documents\TransportTask\vector\bin\Release\CommonWin32.xml
+D:\Documents\TransportTask\vector\bin\Release\ja\ModernWPF.resources.dll
+D:\Documents\TransportTask\vector\bin\Release\zh-Hans\ModernWPF.resources.dll
+D:\Documents\TransportTask\vector\bin\Release\zh-Hant\ModernWPF.resources.dll
+D:\Documents\TransportTask\vector\obj\Release\TransportTask.csprojResolveAssemblyReference.cache
+D:\Documents\TransportTask\vector\obj\Release\MainWindow.baml
+D:\Documents\TransportTask\vector\obj\Release\CloseDialog.g.cs
+D:\Documents\TransportTask\vector\obj\Release\LoginWindow.g.cs
+D:\Documents\TransportTask\vector\obj\Release\MainWindow.g.cs
+D:\Documents\TransportTask\vector\obj\Release\WindowAbout.g.cs
+D:\Documents\TransportTask\vector\obj\Release\App.g.cs
+D:\Documents\TransportTask\vector\obj\Release\TransportTask_MarkupCompile.cache
+D:\Documents\TransportTask\vector\obj\Release\TransportTask_MarkupCompile.lref
+D:\Documents\TransportTask\vector\obj\Release\App.baml
+D:\Documents\TransportTask\vector\obj\Release\CloseDialog.baml
+D:\Documents\TransportTask\vector\obj\Release\DictionaryContainingScrollbarStyle.baml
+D:\Documents\TransportTask\vector\obj\Release\LoginWindow.baml
+D:\Documents\TransportTask\vector\obj\Release\WindowAbout.baml
+D:\Documents\TransportTask\vector\obj\Release\TransportTask.g.resources
+D:\Documents\TransportTask\vector\obj\Release\TransportTask.Properties.Resources.resources
+D:\Documents\TransportTask\vector\obj\Release\TransportTask.csproj.GenerateResource.Cache
+C:\Users\Maksim\Desktop\1\vector\bin\Release\TransportTask.exe.config
+C:\Users\Maksim\Desktop\1\vector\obj\Release\TransportTask.exe
+C:\Users\Maksim\Desktop\1\vector\obj\Release\TransportTask.pdb
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\TransportTask.exe.config
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\TransportTask.exe
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\TransportTask.pdb
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\CommonWin32.dll
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\ModernWPF.pdb
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\ModernWPF.xml
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\CommonWin32.pdb
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\CommonWin32.xml
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\ja\ModernWPF.resources.dll
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\zh-Hans\ModernWPF.resources.dll
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\bin\Release\zh-Hant\ModernWPF.resources.dll
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\TransportTask.csprojResolveAssemblyReference.cache
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\MainWindow.baml
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\CloseDialog.g.cs
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\LoginWindow.g.cs
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\MainWindow.g.cs
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\WindowAbout.g.cs
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\App.g.cs
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\TransportTask_MarkupCompile.cache
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\TransportTask_MarkupCompile.lref
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\App.baml
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\CloseDialog.baml
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\DictionaryContainingScrollbarStyle.baml
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\LoginWindow.baml
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\WindowAbout.baml
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\TransportTask.g.resources
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\TransportTask.Properties.Resources.resources
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\TransportTask.csproj.GenerateResource.Cache
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\TransportTask.exe
+D:\University\2 курс\2 семестр\трпо\TRPOLAB\1\vector\obj\Release\TransportTask.pdb
