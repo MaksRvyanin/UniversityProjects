@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  POP3client.cpp
+c:\users\enjoi\documents\visual studio 2017\projects\internetprogrammingcpp\pop3client\pop3client\pop3client.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\enjoi\documents\visual studio 2017\projects\internetprogrammingcpp\pop3client\pop3client\pop3client.cpp(99): warning C4018: '<': signed/unsigned mismatch
+  POP3client.vcxproj -> C:\Users\Enjoi\Documents\Visual Studio 2017\Projects\InternetProgrammingCPP\POP3client\Debug\POP3client.exe
+  POP3client.vcxproj -> C:\Users\Enjoi\Documents\Visual Studio 2017\Projects\InternetProgrammingCPP\POP3client\Debug\POP3client.pdb (Partial PDB)
