@@ -1,0 +1,13 @@
+﻿  SMTPSimpleMail.cpp
+c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(108): error C2039: 'ReceiveData': is not a member of 'TCP'
+  c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(20): note: see declaration of 'TCP'
+c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(112): error C2039: 'ReceiveData': is not a member of 'TCP'
+  c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(20): note: see declaration of 'TCP'
+c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(116): error C2039: 'ReceiveData': is not a member of 'TCP'
+  c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(20): note: see declaration of 'TCP'
+c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(120): error C2039: 'ReceiveData': is not a member of 'TCP'
+  c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(20): note: see declaration of 'TCP'
+c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(130): error C2039: 'ReceiveData': is not a member of 'TCP'
+  c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(20): note: see declaration of 'TCP'
+c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(134): error C2039: 'ReceiveData': is not a member of 'TCP'
+  c:\users\enjoi\documents\visual studio 2017\projects\smtpsimplemail\smtpsimplemail\smtpsimplemail.cpp(20): note: see declaration of 'TCP'
